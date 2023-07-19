@@ -1,0 +1,18 @@
+#Upper{
+  
+    height:160px;
+    width: 60px;
+    /* border: 1px solid red; */
+    margin: 2%;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 15px;
+}
+/* style={{height:"150px",width:"60px",border:"1px solid red"}} */
+#secondBox{
+    height: 190px;
+    width: 60px;
+    border: 3px solid blue;
+    /* margin: 2%; */
+    border-radius: 15px;
+    margin-top: 2%;
+}
